@@ -1,0 +1,7 @@
+Bu projede HTML5 & Css3 & JavaScript ile bir starbucks arayüzü oluşturdum.
+"imgSlider" & "changeCircleColor" işlevli butonlara bastığımda; Renk ve fotoğraf değişimini sağladım.
+
+**************************
+
+In this project I created a starbucks interface with HTML5 & Css3 & JavaScript.
+When I press buttons with "imgSlider" & "changeCircleColor" functions; I provided the color and photo change.
